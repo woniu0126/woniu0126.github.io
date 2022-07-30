@@ -4,39 +4,82 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/07/29/bian-yi-ji-za-xiang/"/>
-      <url>/2022/07/29/bian-yi-ji-za-xiang/</url>
+      <title>微软插件创意活动及思考</title>
+      <link href="/2022/07/30/ms/"/>
+      <url>/2022/07/30/ms/</url>
       
-        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/question/49176184">(14 条消息) JavaScript的功能是不是都是靠C或者C++这种编译语言提供的？ - 知乎 (zhihu.com)</a></p><p>V8和node.js</p><p>浏览器及插件</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2022/07/26/ding-ding-bei/"/>
-      <url>/2022/07/26/ding-ding-bei/</url>
-      
-        <content type="html"><![CDATA[<p>预处理函数</p><p>math.</p><p>dataframe as df</p><p>df.dtypes</p><p>df[‘’].astype(float) </p><p>df.isnull().sum()</p><p>df.drop()</p><p>df.fillna()</p><p>df.loc[(df[‘’] == 1)&amp;(df[‘’] ==2)]</p><p><a href="https://blog.csdn.net/weixin_40066612/article/details/111319587">(21条消息) 时间序列预测-Python中使用LSTM和PyTorch预测航班数据集_喂他柠檬茶的博客-CSDN博客</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://max.book118.com/html/2016/0522/43661699.shtm">航班延误数学模型教程分析.doc (book118.com)</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://blog.csdn.net/Python_Ai_Road/article/details/81158376">(21条消息) pandas的dataframe如何更改数据类型？_Python_Ai_Road的博客-CSDN博客_改变dataframe列数据类型</a></p><p><a href="https://www.zhihu.com/question/20695747">(3 条消息) 雾、雪等天气因素对飞机的起飞、降落有何影响？ - 知乎 (zhihu.com)</a></p><p><a href="https://zhuanlan.zhihu.com/p/451081164">航空小知识|影响飞机性能的6大要素 - 知乎 (zhihu.com)</a></p><p>df合并方法</p><p><a href="https://blog.csdn.net/haha_point/article/details/86512316">(21条消息) python DataFrame的合并方法总结_haha_point的博客-CSDN博客_dataframe合并</a></p><p>concat</p><p>merge</p><p>append</p><p>笛卡尔积<a href="https://www.cnblogs.com/Allen-rg/p/9848270.html">python dataframe 在merge时 产生笛卡尔积 - 静悟生慧 - 博客园 (cnblogs.com)</a></p><p>df.rename(,inplace=True)</p><p>df.columns</p><p>DecisionTreeClassifier(criterion=’entropy’)香农熵的分类器</p>]]></content>
+        <content type="html"><![CDATA[<p><font color="#dd00dd">备注：本文仅供参考！！各位见仁见智</font></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> MS Plugin Originality </tag>
+            
+            <tag> Insight </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/07/17/hello-world/"/>
-      <url>/2022/07/17/hello-world/</url>
+      <title>一些常用工具网页</title>
+      <link href="/2022/07/30/ji-zhu-gong-ju-wang-ye/"/>
+      <url>/2022/07/30/ji-zhu-gong-ju-wang-ye/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h4 id="markdown-emojiComplete-list-of-github-markdown-emoji-markup"><a href="#markdown-emojiComplete-list-of-github-markdown-emoji-markup" class="headerlink" title="markdown emojiComplete list of github markdown emoji markup"></a>markdown emoji<a href="https://gist.github.com/rxaviers/7360908">Complete list of github markdown emoji markup</a></h4><h4 id="推荐书籍的网页"><a href="#推荐书籍的网页" class="headerlink" title="推荐书籍的网页"></a>推荐书籍的网页</h4><p><a href="http://note.wcoder.com/">note.wcoder.com</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 技术工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>入门算法比赛及相关总结</title>
+      <link href="/2022/07/30/ru-men-suan-fa/"/>
+      <url>/2022/07/30/ru-men-suan-fa/</url>
+      
+        <content type="html"><![CDATA[<h3 id="推荐OJ"><a href="#推荐OJ" class="headerlink" title="推荐OJ"></a>推荐OJ</h3><p>洛谷<a href="https://www.luogu.com.cn/">luogu</a><br>CF<br>acwing y总</p><h3 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h3><p>刘汝佳<br>算法竞赛从入门到进阶<br>算法竞赛进阶？<br>国家队论文等</p><h3 id="推荐相关知识的网站"><a href="#推荐相关知识的网站" class="headerlink" title="推荐相关知识的网站"></a>推荐相关知识的网站</h3><p>相关WIKI<a href="https://oi-wiki.org/">OI Wiki</a>，<a href="https://cp-wiki.vercel.app/">CP Wiki</a></p><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p><a href="https://www.nowcoder.com/jobs/recommend/campus">牛客</a><br><a href="https://leetcode.cn/">力扣</a></p><h3 id="计算机相关比赛"><a href="#计算机相关比赛" class="headerlink" title="计算机相关比赛"></a>计算机相关比赛</h3><p>ACM ICPC含金量最高，有机会、有能力、有时间可以试试，博主起步太晚了 <span class="github-emoji"><span>😢</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> 。<br>其他含金量高的不限于（大学生数学竞赛，数学建模等）<br><a href="https://tianchi.aliyun.com/">天池大数据众智平台-阿里云天池</a><br><a href="https://astar.baidu.com/#/">百度之星大赛</a><br><a href="https://www.kaggle.com/">kaggle</a><br><a href="https://competition.huaweicloud.com/codecraft2020">huawei</a><br><a href="https://dasai.lanqiao.cn/pages/dasai/index.html">蓝桥</a><br><a href="https://www.hackerrank.com/">https://www.hackerrank.com/</a><br><a href="http://www.tiaozhanbei.net/">http://www.tiaozhanbei.net/</a><br><a href="http://www.mcm.edu.cn/">http://www.mcm.edu.cn/</a><br><a href="http://mathorcup.org/index">http://mathorcup.org/index</a><br><a href="http://www.ncccu.org.cn/">http://www.ncccu.org.cn/</a><br><a href="http://www.cnsoftbei.com/">http://www.cnsoftbei.com/</a><br><a href="https://www.jsjds.com.cn/">https://www.jsjds.com.cn/</a><br><a href="http://www.ncccu.org.cn/">http://www.ncccu.org.cn/</a><br><a href="https://www.topcoder.com/">https://www.topcoder.com/</a></p><div class="row">    <embed src="http://7xov2f.com1.z0.glb.clouddn.com/bash_freshman.pdf" width="100%" height="550" type="application/pdf"></div><p><font color="#dd00dd">备注：本文仅供参考！！各位见仁见智</font></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> oj </tag>
+            
+            <tag> Algo Contest </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>编译原理及相关思考</title>
+      <link href="/2022/07/29/complie-and-sundries/"/>
+      <url>/2022/07/29/complie-and-sundries/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/question/49176184">(14 条消息) JavaScript的功能是不是都是靠C或者C++这种编译语言提供的？ - 知乎 (zhihu.com)</a></p><p>V8和node.js</p><p>浏览器及插件</p><p>(<a href="https://woniu0126.github.io/file/ch12.pdf">woniu0126</a>)</p><div class="row">    <embed src="https://woniu0126.github.io/file/two_weeks_script_lang.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> compile </tag>
+            
+            <tag> interpret </tag>
+            
+        </tags>
       
     </entry>
     
@@ -47,9 +90,74 @@
       <link href="/2022/07/17/cv-blog/"/>
       <url>/2022/07/17/cv-blog/</url>
       
-        <content type="html"><![CDATA[<h3 id="个人简历-CV"><a href="#个人简历-CV" class="headerlink" title="个人简历 CV"></a>个人简历 <a href="https://github.com/hackhu2019/resume">CV</a></h3><h3 id="个人博客-Blog"><a href="#个人博客-Blog" class="headerlink" title="个人博客 Blog"></a>个人博客 <a href="https://www.bilibili.com/read/cv12633102">Blog</a></h3><p>#test</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="个人简历-CV"><a href="#个人简历-CV" class="headerlink" title="个人简历 CV"></a>个人简历 <a href="https://github.com/hackhu2019/resume">CV</a></h3><h3 id="个人博客-Blog"><a href="#个人博客-Blog" class="headerlink" title="个人博客 Blog"></a>个人博客 <a href="https://www.bilibili.com/read/cv12633102">Blog</a></h3><h3 id="配置Configuration"><a href="#配置Configuration" class="headerlink" title="配置Configuration"></a>配置<a href="https://hexo.io/docs/configuration.html">Configuration</a></h3><h3 id="时区TimeZone"><a href="#时区TimeZone" class="headerlink" title="时区TimeZone"></a>时区<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">TimeZone</a></h3><h3 id="Hexo上传pdflink"><a href="#Hexo上传pdflink" class="headerlink" title="Hexo上传pdflink"></a>Hexo上传pdf<a href="https://lizhening.github.io/posts/7d20ce7f/">link</a></h3>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> CV </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>machine learning</title>
+      <link href="/2022/07/11/machine-learniing/"/>
+      <url>/2022/07/11/machine-learniing/</url>
+      
+        <content type="html"><![CDATA[<p>机器学习是用数据科学的计算能力和算法能力去弥补统计方法的不足，其最 </p><p>终结果是为那些目前既没有高效的理论支持、又没有高效的计算方法的 </p><p>统计推理与数据探索问题提供解决方法。 </p><h3 id="scikit-learn"><a href="#scikit-learn" class="headerlink" title="scikit-learn"></a>scikit-learn</h3><h2 id="ML-method"><a href="#ML-method" class="headerlink" title="ML method"></a>ML method</h2><h3 id="supervised"><a href="#supervised" class="headerlink" title="supervised"></a>supervised</h3><h4 id="classification"><a href="#classification" class="headerlink" title="classification"></a>classification</h4><h5 id="linear"><a href="#linear" class="headerlink" title="linear"></a>linear</h5><h5 id="Guass-baysian"><a href="#Guass-baysian" class="headerlink" title="Guass baysian"></a>Guass baysian</h5><h5 id="SVM"><a href="#SVM" class="headerlink" title="SVM"></a>SVM</h5><h4 id="regresssion"><a href="#regresssion" class="headerlink" title="regresssion"></a>regresssion</h4><h3 id="unsupervised"><a href="#unsupervised" class="headerlink" title="unsupervised"></a>unsupervised</h3><h4 id="cluster"><a href="#cluster" class="headerlink" title="cluster"></a>cluster</h4><h5 id="K-means"><a href="#K-means" class="headerlink" title="K-means"></a>K-means</h5><h4 id="dimension-redution"><a href="#dimension-redution" class="headerlink" title="dimension redution"></a>dimension redution</h4><h5 id="PCA"><a href="#PCA" class="headerlink" title="PCA"></a>PCA</h5>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python learning</title>
+      <link href="/2022/07/11/python-learning/"/>
+      <url>/2022/07/11/python-learning/</url>
+      
+        <content type="html"><![CDATA[<p>参考书籍：从入门到实践</p><h4 id="列表及操作"><a href="#列表及操作" class="headerlink" title="列表及操作"></a>列表及操作</h4><p>-1索引<br>sort()<br>sorted()<br>for循环<br>缩进<br>range()生成数值列表<br>list(range())</p><p>列表解析</p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">squre = [values**<span class="number">2</span> <span class="keyword">for</span> values <span class="keyword">in</span> a]</span><br></pre></td></tr></tbody></table></figure><p>数组切片，是否为副本</p><h4 id="第六章字典"><a href="#第六章字典" class="headerlink" title="第六章字典"></a>第六章字典</h4><p>set()</p><p>嵌套</p><h4 id="第七章用户输入与while循环"><a href="#第七章用户输入与while循环" class="headerlink" title="第七章用户输入与while循环"></a>第七章用户输入与while循环</h4><p>input()</p><p>int()</p><p>%</p><p>实参可选，空字符串</p><p>传递任意数量的实参，元组</p><p><img src="C:\Users\15466\AppData\Roaming\Typora\typora-user-images\image-20220717153722945.png" alt="image-20220717153722945"></p><p>使用任意数量的关键字实参 **topping</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python learning</title>
+      <link href="/2022/07/11/ding-ding-bei/"/>
+      <url>/2022/07/11/ding-ding-bei/</url>
+      
+        <content type="html"><![CDATA[<p>预处理函数</p><p>math.</p><p>dataframe as df</p><p>df.dtypes</p><p>df[‘’].astype(float) </p><p>df.isnull().sum()</p><p>df.drop()</p><p>df.fillna()</p><p>df.loc[(df[‘’] == 1)&amp;(df[‘’] ==2)]</p><p><a href="https://blog.csdn.net/weixin_40066612/article/details/111319587">(21条消息) 时间序列预测-Python中使用LSTM和PyTorch预测航班数据集_喂他柠檬茶的博客-CSDN博客</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://max.book118.com/html/2016/0522/43661699.shtm">航班延误数学模型教程分析.doc (book118.com)</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://blog.csdn.net/Python_Ai_Road/article/details/81158376">(21条消息) pandas的dataframe如何更改数据类型？_Python_Ai_Road的博客-CSDN博客_改变dataframe列数据类型</a></p><p><a href="https://www.zhihu.com/question/20695747">(3 条消息) 雾、雪等天气因素对飞机的起飞、降落有何影响？ - 知乎 (zhihu.com)</a></p><p><a href="https://zhuanlan.zhihu.com/p/451081164">航空小知识|影响飞机性能的6大要素 - 知乎 (zhihu.com)</a></p><p>df合并方法</p><p><a href="https://blog.csdn.net/haha_point/article/details/86512316">(21条消息) python DataFrame的合并方法总结_haha_point的博客-CSDN博客_dataframe合并</a></p><p>concat</p><p>merge</p><p>append</p><p>笛卡尔积<a href="https://www.cnblogs.com/Allen-rg/p/9848270.html">python dataframe 在merge时 产生笛卡尔积 - 静悟生慧 - 博客园 (cnblogs.com)</a></p><p>df.rename(,inplace=True)</p><p>df.columns</p><p>DecisionTreeClassifier(criterion=’entropy’)香农熵的分类器</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
       
     </entry>
     
