@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2022/07/29/bian-yi-ji-za-xiang/"/>
+      <url>/2022/07/29/bian-yi-ji-za-xiang/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/question/49176184">(14 条消息) JavaScript的功能是不是都是靠C或者C++这种编译语言提供的？ - 知乎 (zhihu.com)</a></p><p>V8和node.js</p><p>浏览器及插件</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2022/07/26/ding-ding-bei/"/>
+      <url>/2022/07/26/ding-ding-bei/</url>
+      
+        <content type="html"><![CDATA[<p>预处理函数</p><p>math.</p><p>dataframe as df</p><p>df.dtypes</p><p>df[‘’].astype(float) </p><p>df.isnull().sum()</p><p>df.drop()</p><p>df.fillna()</p><p>df.loc[(df[‘’] == 1)&amp;(df[‘’] ==2)]</p><p><a href="https://blog.csdn.net/weixin_40066612/article/details/111319587">(21条消息) 时间序列预测-Python中使用LSTM和PyTorch预测航班数据集_喂他柠檬茶的博客-CSDN博客</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://max.book118.com/html/2016/0522/43661699.shtm">航班延误数学模型教程分析.doc (book118.com)</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://blog.csdn.net/Python_Ai_Road/article/details/81158376">(21条消息) pandas的dataframe如何更改数据类型？_Python_Ai_Road的博客-CSDN博客_改变dataframe列数据类型</a></p><p><a href="https://www.zhihu.com/question/20695747">(3 条消息) 雾、雪等天气因素对飞机的起飞、降落有何影响？ - 知乎 (zhihu.com)</a></p><p><a href="https://zhuanlan.zhihu.com/p/451081164">航空小知识|影响飞机性能的6大要素 - 知乎 (zhihu.com)</a></p><p>df合并方法</p><p><a href="https://blog.csdn.net/haha_point/article/details/86512316">(21条消息) python DataFrame的合并方法总结_haha_point的博客-CSDN博客_dataframe合并</a></p><p>concat</p><p>merge</p><p>append</p><p>笛卡尔积<a href="https://www.cnblogs.com/Allen-rg/p/9848270.html">python dataframe 在merge时 产生笛卡尔积 - 静悟生慧 - 博客园 (cnblogs.com)</a></p><p>df.rename(,inplace=True)</p><p>df.columns</p><p>DecisionTreeClassifier(criterion=’entropy’)香农熵的分类器</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>个人简历与博客建立参考</title>
       <link href="/2022/07/10/cv-blog/"/>
       <url>/2022/07/10/cv-blog/</url>
