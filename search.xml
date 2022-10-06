@@ -4,19 +4,19 @@
   
     
     <entry>
-      <title>ICS&amp;计组</title>
-      <link href="/2022/07/31/ics/"/>
-      <url>/2022/07/31/ics/</url>
+      <title>2022年非科保研日记</title>
+      <link href="/2022/10/05/postgra-recom/"/>
+      <url>/2022/10/05/postgra-recom/</url>
       
-        <content type="html"><![CDATA[<h2 id="第一章-计算机系统概述"><a href="#第一章-计算机系统概述" class="headerlink" title="第一章 计算机系统概述"></a>第一章 计算机系统概述</h2><h3 id=""><a href="#" class="headerlink" title=""></a><img src="D:\学习\CV\hexo_blog\source\img\1.png" alt="image-20220731101028172" style="zoom: 33%;"></h3><p>混淆点</p><p>MAR MDR 机器字长 指令字长 存储字长</p><p>如</p><p>人</p><p>人</p><p>r </p><h3 id="本章小结"><a href="#本章小结" class="headerlink" title="本章小结"></a>本章小结</h3><h3 id="常见问题题和易混淆知识点"><a href="#常见问题题和易混淆知识点" class="headerlink" title="常见问题题和易混淆知识点"></a>常见问题题和易混淆知识点</h3><h4 id="References"><a href="#References" class="headerlink" title="References:"></a>References:</h4><p>《2021王道计组》</p><p>《计算机系统基础》（袁春风，yzh）</p>]]></content>
+        <content type="html"><![CDATA[<h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><blockquote><p>本人NJU地科大三选手，受启蒙课程ics影响（硬核），决定跨保NJUCS，于是在大三选修了一些计科课程，企图跨专业推免。本篇文章以时间为线，流水式记录我的经历。</p></blockquote><h4 id="2022学年开学"><a href="#2022学年开学" class="headerlink" title="2022学年开学"></a>2022学年开学</h4><blockquote><ol><li>向南大CS的学长老师询问南大CS开放日情况，他们细心解答，让我充满自信。</li><li>选到了OS，计网，DS，PR。加强基础，反正有的考研也考。</li><li></li></ol></blockquote><h4 id="2022年5月"><a href="#2022年5月" class="headerlink" title="2022年5月"></a>2022年5月</h4><blockquote><ol><li>南大CS夏令营5月15日通知，看到后准备相关报名的材料。</li><li>寻找以往面经进行预习与复习。</li><li>完成课程项目。为CS与地科的期末复习。</li></ol></blockquote><h4 id="2022年6月"><a href="#2022年6月" class="headerlink" title="2022年6月"></a>2022年6月</h4><blockquote><ol><li>已经填报夏令营系统，并且期末复习。</li><li>咨询大气同学（也想转专业）相关事宜，发邮件给OS上课老师，线下咨询情况，老师给予软件所介绍和学习的指导。6月20日结束夏令营报名，6月28-30日未收到邮件，未入营，于是暑假回家。</li></ol></blockquote><h4 id="2022年7月"><a href="#2022年7月" class="headerlink" title="2022年7月"></a>2022年7月</h4><blockquote><ol><li>向软件所老师咨询，得知学长们以及群友的简历的非常优秀，各种项目以及竞赛，于是赶紧向老师求助以及在网上寻找暑假的比赛，例如百度之星，钉钉杯以及一些数学算法竞赛。</li><li>在OI Wiki上找一些资料，于是开始自学算法，<a href="https://oi-wiki.org/contest/resources/">学习资源 - OI Wiki (oi-wiki.org)</a>，参加了一系列竞赛，虽然结果不好，但是一次新的尝试。</li><li>7月底参加钉钉杯大数据，看了一些数据处理(python三件套)以及机器学习(sk-learn)的书。</li></ol></blockquote><h4 id="2022年8月"><a href="#2022年8月" class="headerlink" title="2022年8月"></a>2022年8月</h4><blockquote><ol><li>8月初，由于家中事变，前往母亲家乡，待了一个星期。</li><li>回家后开始看编译原理，在许畅老师的课程官网把教学立方找到，把音频下载下来，以及许老师编的实验指导。自学编译原理，掌握知识的框架。</li><li>8月19日，返回至学校，准备巢湖实习。</li><li>9月初，唐院长请宴，犒劳巢湖实习的学生们，某同学竟偷喝10余罐啤酒。</li><li>9月10日中秋节，中午小吃一顿稍作小憩，3点启航晚上7点回到宿舍。</li><li>巢湖实习期间，上午实习，下午若有空则继续关注绿裙和报名推免各校，并且准备NJUCS的面经。本校地科推免工作也在实习期间决定大致入选人员。</li><li></li><li>1</li></ol></blockquote><h4 id="2022年9月"><a href="#2022年9月" class="headerlink" title="2022年9月"></a>2022年9月</h4><blockquote><ol><li>巢湖实习在9月10日中秋节落下帷幕。</li><li>回到宿舍后继续关注各院校的预推免（大部分已经开启了，甚至结束了），每天基本上在关注绿裙消息以及报名，咨询群友们相关事宜，准备自己的简历和材料。应报尽报，不留一校。</li><li>9月16日至18日得到一些回复，招生结束的邮件以及初审的通过消息（浙软，天津等），9月19日地科笔试，后续复试冲突浙软，放弃浙软。</li><li>9月20日至9月27日是笔试面试高峰期，</li><li></li></ol></blockquote><p><font color="#dd00dd">备注：本文仅供个人记录！！各位见仁见智</font></p><h5 id="快捷链接："><a href="#快捷链接：" class="headerlink" title="快捷链接："></a>快捷链接：</h5><p><a href="http://www.ia.cas.cn/yjsjy/zs/sszs/">硕士招生—-自动化研究所 (cas.cn)</a></p><p><a href="https://yz.chsi.com.cn/">中国研究生招生信息网 (chsi.com.cn)</a></p><p><a href="https://zhuanlan.zhihu.com/p/570512068">2022非科njuer跨保日记——自所、华东师范、南大、浙软等 - 知乎 (zhihu.com)</a></p>]]></content>
       
       
       
         <tags>
             
-            <tag> intro to computer system </tag>
+            <tag> computer science </tag>
             
-            <tag> computer organization </tag>
+            <tag> postgraduate recommendation - casia </tag>
             
         </tags>
       
@@ -25,158 +25,19 @@
     
     
     <entry>
-      <title>微软插件创意活动及思考</title>
-      <link href="/2022/07/30/ms/"/>
-      <url>/2022/07/30/ms/</url>
+      <title>2022百度之星</title>
+      <link href="/2022/09/10/algorithm/"/>
+      <url>/2022/09/10/algorithm/</url>
       
-        <content type="html"><![CDATA[<p><font color="#dd00dd">备注：本文仅供参考！！各位见仁见智</font></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> MS Plugin Originality </tag>
-            
-            <tag> Insight </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>一些常用工具网页</title>
-      <link href="/2022/07/30/ji-zhu-gong-ju-wang-ye/"/>
-      <url>/2022/07/30/ji-zhu-gong-ju-wang-ye/</url>
-      
-        <content type="html"><![CDATA[<h4 id="markdown-emojiComplete-list-of-github-markdown-emoji-markup"><a href="#markdown-emojiComplete-list-of-github-markdown-emoji-markup" class="headerlink" title="markdown emojiComplete list of github markdown emoji markup"></a>markdown emoji<a href="https://gist.github.com/rxaviers/7360908">Complete list of github markdown emoji markup</a></h4><h4 id="推荐书籍的网页"><a href="#推荐书籍的网页" class="headerlink" title="推荐书籍的网页"></a>推荐书籍的网页</h4><p><a href="http://note.wcoder.com/">note.wcoder.com</a></p>]]></content>
+        <content type="html"><![CDATA[<p>l</p><h5 id="离散数学"><a href="#离散数学" class="headerlink" title="离散数学"></a>离散数学</h5><blockquote><p><a href="https://www.packetmania.net/2021/02/14/Fermats-Little-Theorem/">费马小定理的归纳法证明和应用 | 网络热度 (packetmania.net)</a></p></blockquote><blockquote><h5 id="references"><a href="#references" class="headerlink" title="references:"></a>references:</h5><ol><li>Linear algebra and its application</li><li>线性代数</li></ol></blockquote><h4 id=""><a href="#" class="headerlink" title=""></a></h4>]]></content>
       
       
       
         <tags>
             
-            <tag> 技术工具 </tag>
+            <tag> math </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>入门算法比赛及相关总结</title>
-      <link href="/2022/07/30/ru-men-suan-fa/"/>
-      <url>/2022/07/30/ru-men-suan-fa/</url>
-      
-        <content type="html"><![CDATA[<h3 id="推荐OJ"><a href="#推荐OJ" class="headerlink" title="推荐OJ"></a>推荐OJ</h3><p>洛谷<a href="https://www.luogu.com.cn/">luogu</a><br>CF<br>acwing y总</p><h3 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h3><p>刘汝佳<br>算法竞赛从入门到进阶<br>算法竞赛进阶？<br>国家队论文等</p><h3 id="推荐相关知识的网站"><a href="#推荐相关知识的网站" class="headerlink" title="推荐相关知识的网站"></a>推荐相关知识的网站</h3><p>相关WIKI<a href="https://oi-wiki.org/">OI Wiki</a>，<a href="https://cp-wiki.vercel.app/">CP Wiki</a></p><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p><a href="https://www.nowcoder.com/jobs/recommend/campus">牛客</a><br><a href="https://leetcode.cn/">力扣</a></p><h3 id="计算机相关比赛"><a href="#计算机相关比赛" class="headerlink" title="计算机相关比赛"></a>计算机相关比赛</h3><p>ACM ICPC含金量最高，有机会、有能力、有时间可以试试，博主起步太晚了 <span class="github-emoji"><span>😢</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> 。<br>其他含金量高的不限于（大学生数学竞赛，数学建模等）<br><a href="https://tianchi.aliyun.com/">天池大数据众智平台-阿里云天池</a><br><a href="https://astar.baidu.com/#/">百度之星大赛</a><br><a href="https://www.kaggle.com/">kaggle</a><br><a href="https://competition.huaweicloud.com/codecraft2020">huawei</a><br><a href="https://dasai.lanqiao.cn/pages/dasai/index.html">蓝桥</a><br><a href="https://www.hackerrank.com/">https://www.hackerrank.com/</a><br><a href="http://www.tiaozhanbei.net/">http://www.tiaozhanbei.net/</a><br><a href="http://www.mcm.edu.cn/">http://www.mcm.edu.cn/</a><br><a href="http://mathorcup.org/index">http://mathorcup.org/index</a><br><a href="http://www.ncccu.org.cn/">http://www.ncccu.org.cn/</a><br><a href="http://www.cnsoftbei.com/">http://www.cnsoftbei.com/</a><br><a href="https://www.jsjds.com.cn/">https://www.jsjds.com.cn/</a><br><a href="http://www.ncccu.org.cn/">http://www.ncccu.org.cn/</a><br><a href="https://www.topcoder.com/">https://www.topcoder.com/</a></p><p><font color="#dd00dd">备注：本文仅供参考！！各位见仁见智</font></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> oj </tag>
-            
-            <tag> Algo Contest </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>编译原理及相关思考</title>
-      <link href="/2022/07/29/complie-and-sundries/"/>
-      <url>/2022/07/29/complie-and-sundries/</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/question/49176184">(14 条消息) JavaScript的功能是不是都是靠C或者C++这种编译语言提供的？ - 知乎 (zhihu.com)</a></p><p>V8和node.js</p><p>浏览器及插件</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> compile </tag>
-            
-            <tag> interpret </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>个人简历与博客建立参考</title>
-      <link href="/2022/07/17/cv-blog/"/>
-      <url>/2022/07/17/cv-blog/</url>
-      
-        <content type="html"><![CDATA[<h3 id="个人简历-CV"><a href="#个人简历-CV" class="headerlink" title="个人简历 CV"></a>个人简历 <a href="https://github.com/hackhu2019/resume">CV</a></h3><h3 id="个人博客-Blog"><a href="#个人博客-Blog" class="headerlink" title="个人博客 Blog"></a>个人博客 <a href="https://www.bilibili.com/read/cv12633102">Blog</a></h3><h3 id="配置Configuration"><a href="#配置Configuration" class="headerlink" title="配置Configuration"></a>配置<a href="https://hexo.io/docs/configuration.html">Configuration</a></h3><h3 id="时区TimeZone"><a href="#时区TimeZone" class="headerlink" title="时区TimeZone"></a>时区<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">TimeZone</a></h3><h3 id="Hexo上传pdflink"><a href="#Hexo上传pdflink" class="headerlink" title="Hexo上传pdflink"></a>Hexo上传pdf<a href="https://lizhening.github.io/posts/7d20ce7f/">link</a></h3>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> blog </tag>
-            
-            <tag> CV </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>machine learning</title>
-      <link href="/2022/07/11/machine-learniing/"/>
-      <url>/2022/07/11/machine-learniing/</url>
-      
-        <content type="html"><![CDATA[<p>机器学习是用数据科学的计算能力和算法能力去弥补统计方法的不足，其最 </p><p>终结果是为那些目前既没有高效的理论支持、又没有高效的计算方法的 </p><p>统计推理与数据探索问题提供解决方法。 </p><h3 id="scikit-learn"><a href="#scikit-learn" class="headerlink" title="scikit-learn"></a>scikit-learn</h3><h2 id="ML-method"><a href="#ML-method" class="headerlink" title="ML method"></a>ML method</h2><h3 id="supervised"><a href="#supervised" class="headerlink" title="supervised"></a>supervised</h3><h4 id="classification"><a href="#classification" class="headerlink" title="classification"></a>classification</h4><h5 id="linear"><a href="#linear" class="headerlink" title="linear"></a>linear</h5><h5 id="Guass-baysian"><a href="#Guass-baysian" class="headerlink" title="Guass baysian"></a>Guass baysian</h5><h5 id="SVM"><a href="#SVM" class="headerlink" title="SVM"></a>SVM</h5><h4 id="regresssion"><a href="#regresssion" class="headerlink" title="regresssion"></a>regresssion</h4><h3 id="unsupervised"><a href="#unsupervised" class="headerlink" title="unsupervised"></a>unsupervised</h3><h4 id="cluster"><a href="#cluster" class="headerlink" title="cluster"></a>cluster</h4><h5 id="K-means"><a href="#K-means" class="headerlink" title="K-means"></a>K-means</h5><h4 id="dimension-redution"><a href="#dimension-redution" class="headerlink" title="dimension redution"></a>dimension redution</h4><h5 id="PCA"><a href="#PCA" class="headerlink" title="PCA"></a>PCA</h5>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> ML </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>python learning</title>
-      <link href="/2022/07/11/python-learning/"/>
-      <url>/2022/07/11/python-learning/</url>
-      
-        <content type="html"><![CDATA[<pre class="line-numbers language-python"><code class="language-python"><span class="token keyword">import</span> this<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>参考书籍：从入门到实践</p><h4 id="列表及操作"><a href="#列表及操作" class="headerlink" title="列表及操作"></a>列表及操作</h4><p>-1索引<br>sort()<br>sorted()<br>for循环<br>缩进<br>range()生成数值列表<br>list(range())</p><p>列表解析</p><p>数组切片，是否为副本</p><h4 id="第六章字典"><a href="#第六章字典" class="headerlink" title="第六章字典"></a>第六章字典</h4><p>set()</p><p>嵌套</p><h4 id="第七章用户输入与while循环"><a href="#第七章用户输入与while循环" class="headerlink" title="第七章用户输入与while循环"></a>第七章用户输入与while循环</h4><p>input()</p><p>int()</p><p>%</p><p>实参可选，空字符串</p><p>传递任意数量的实参，元组</p><p><img src="C:\Users\15466\AppData\Roaming\Typora\typora-user-images\image-20220717153722945.png" alt="image-20220717153722945"></p><p>使用任意数量的关键字实参 **topping</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>python learning</title>
-      <link href="/2022/07/11/ding-ding-bei/"/>
-      <url>/2022/07/11/ding-ding-bei/</url>
-      
-        <content type="html"><![CDATA[<p>预处理函数</p><p>math.</p><p>dataframe as df</p><p>df.dtypes</p><p>df[‘’].astype(float) </p><p>df.isnull().sum()</p><p>df.drop()</p><p>df.fillna()</p><p>df.loc[(df[‘’] == 1)&amp;(df[‘’] ==2)]</p><p><a href="https://blog.csdn.net/weixin_40066612/article/details/111319587">(21条消息) 时间序列预测-Python中使用LSTM和PyTorch预测航班数据集_喂他柠檬茶的博客-CSDN博客</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://max.book118.com/html/2016/0522/43661699.shtm">航班延误数学模型教程分析.doc (book118.com)</a></p><p><a href="https://blog.csdn.net/qq_45337431/article/details/107126735">(21条消息) XGBOOST_航班延误预测_松鼠MaSaKi的博客-CSDN博客_航班延误预测</a></p><p><a href="https://blog.csdn.net/Python_Ai_Road/article/details/81158376">(21条消息) pandas的dataframe如何更改数据类型？_Python_Ai_Road的博客-CSDN博客_改变dataframe列数据类型</a></p><p><a href="https://www.zhihu.com/question/20695747">(3 条消息) 雾、雪等天气因素对飞机的起飞、降落有何影响？ - 知乎 (zhihu.com)</a></p><p><a href="https://zhuanlan.zhihu.com/p/451081164">航空小知识|影响飞机性能的6大要素 - 知乎 (zhihu.com)</a></p><p>df合并方法</p><p><a href="https://blog.csdn.net/haha_point/article/details/86512316">(21条消息) python DataFrame的合并方法总结_haha_point的博客-CSDN博客_dataframe合并</a></p><p>concat</p><p>merge</p><p>append</p><p>笛卡尔积<a href="https://www.cnblogs.com/Allen-rg/p/9848270.html">python dataframe 在merge时 产生笛卡尔积 - 静悟生慧 - 博客园 (cnblogs.com)</a></p><p>df.rename(,inplace=True)</p><p>df.columns</p><p>DecisionTreeClassifier(criterion=’entropy’)香农熵的分类器</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> python </tag>
+            <tag> programming </tag>
             
         </tags>
       
