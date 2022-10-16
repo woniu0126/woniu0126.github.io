@@ -4,8 +4,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="woniu0126">
-    <meta name="description" content="record the progress">
+    <meta name="keywords" content="computer science, blog">
+    <meta name="description" content="record the life and make progress">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -101,35 +101,12 @@
   
   <li class="hide-on-med-and-down nav-item">
     
-    <a href="" class="waves-effect waves-light">
-
+    <a href="/about" class="waves-effect waves-light">
       
       <i class="fas fa-user-circle" style="zoom: 0.6;"></i>
       
       <span>关于</span>
-      <i class="fas fa-chevron-down" aria-hidden="true" style="zoom: 0.6;"></i>
     </a>
-    <ul class="sub-nav menus_item_child ">
-      
-      <li>
-        <a href="/me">
-          
-          <i class="fas fa-mars" style="margin-top: -20px; zoom: 0.6;"></i>
-          
-          <span>Me</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/project">
-          
-          <i class="fas fa-star" style="margin-top: -20px; zoom: 0.6;"></i>
-          
-          <span>project</span>
-        </a>
-      </li>
-      
-    </ul>
     
   </li>
   
@@ -140,6 +117,17 @@
       <i class="fas fa-comments" style="zoom: 0.6;"></i>
       
       <span>留言板</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="/friends" class="waves-effect waves-light">
+      
+      <i class="fas fa-address-book" style="zoom: 0.6;"></i>
+      
+      <span>友情链接</span>
     </a>
     
   </li>
@@ -161,7 +149,7 @@
         <div class="logo-name">woniu0126</div>
         <div class="logo-desc">
             
-            record the progress
+            record the life and make progress
             
         </div>
     </div>
@@ -214,36 +202,12 @@
         
         <li class="m-nav-item">
 	  
-		<a href="javascript:;">
+		<a href="/about" class="waves-effect waves-light">
 			
-				<i class="fa-fw fas fa-user-circle"></i>
+			    <i class="fa-fw fas fa-user-circle"></i>
 			
 			关于
-			<span class="m-icon"><i class="fas fa-chevron-right"></i></span>
 		</a>
-            <ul  style="background:  ;" >
-              
-                <li>
-
-                  <a href="/me " style="margin-left:75px">
-				  
-				   <i class="fa fas fa-mars" style="position: absolute;left:50px" ></i>
-			      
-		          <span>Me</span>
-                  </a>
-                </li>
-              
-                <li>
-
-                  <a href="/project " style="margin-left:75px">
-				  
-				   <i class="fa fas fa-star" style="position: absolute;left:50px" ></i>
-			      
-		          <span>project</span>
-                  </a>
-                </li>
-              
-            </ul>
           
         </li>
         
@@ -254,6 +218,17 @@
 			    <i class="fa-fw fas fa-comments"></i>
 			
 			留言板
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="/friends" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-address-book"></i>
+			
+			友情链接
 		</a>
           
         </li>
@@ -405,7 +380,7 @@
                             
                         ],
                         startDelay: 300,
-                        typeSpeed: 100,
+                        typeSpeed: 70,
                         loop: true,
                         backSpeed: 50,
                         showCursor: true
@@ -438,37 +413,40 @@
                 
             </div>
             <div class="cover-social-link">
-    <a href="https://github.com/woniu0126" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+    <a href="https://github.com/woniu0126" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub"
+        data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
+    
 
+        
+            <a href="mailto:1546631808@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我"
+                data-position="top" data-delay="50">
+                <i class="fas fa-envelope-open"></i>
+            </a>
+            
+                <!-- 
+ -->
 
+                <!--  -->
 
-    <a href="mailto:1546631808@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
+                
+                    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1546631808"
+                        class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1546631808"
+                        data-position="top" data-delay="50">
+                        <i class="fab fa-qq"></i>
+                    </a>
+                    
 
+                        <!--  -->
 
+                        
 
-
-
-
-
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1546631808" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1546631808" data-position="top" data-delay="50">
-        <i class="fab fa-qq"></i>
-    </a>
-
-
-
-
-
-
-
+                                <!-- 
     <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
         <i class="fas fa-rss"></i>
     </a>
-
-</div>
+ --></div>
         </div>
     </div>
 
@@ -493,7 +471,7 @@
         }
 
         coverSlider.carousel({
-            duration: Number('120'),
+            duration: Number('1'),
             fullWidth: true,
             indicators: 'true' === 'true',
             onCycleTo() {
@@ -511,7 +489,7 @@
         let autoCarousel = function () {
             carouselIntervalId = setInterval(function () {
                 coverSlider.carousel('next');
-            }, 5000);
+            }, 5);
         };
         autoCarousel();
         
@@ -589,35 +567,34 @@
              <!-- 隐藏某个文章 -->
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2022/10/05/postgra-recom/">
+                    <a href="/2018/09/07/cv/">
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/5.jpg" class="responsive-img" alt="2022年非科保研日记">
+                            <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="typora-vue-theme主题介绍">
                             
-                            <span class="card-title">2022年非科保研日记</span>
+                            <span class="card-title">typora-vue-theme主题介绍</span>
                         </div>
                     </a>
 
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                前言
-本人NJU地科大三选手，受启蒙课程ics影响（硬核），决定跨保NJUCS，于是在大三选修了一些计科课程，企图跨专业推免。本篇文章以时间为线，流水式记录我的经历。
-
-2022学年开学
-
-向南大CS的学长老师询问南大CS开放日情况，他们细
+                                这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
                             
                         </div>
                         <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-10-05
+                                <i class="far fa-clock fa-fw icon-date"></i>2018-09-07
                             </span>
                             <span class="publish-author">
                                 
-                                <i class="fas fa-user fa-fw"></i>
-                                woniu0126
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/Markdown/" class="post-category">
+                                    Markdown
+                                </a>
+                                
                                 
                             </span>
                         </div>
@@ -626,71 +603,12 @@
                     
                     <div class="card-action article-tags">
                         
-                        <a href="/tags/computer-science/">
-                            <span class="chip bg-color">computer science</span>
+                        <a href="/tags/Typora/">
+                            <span class="chip bg-color">Typora</span>
                         </a>
                         
-                        <a href="/tags/postgraduate-recommendation/">
-                            <span class="chip bg-color">postgraduate recommendation</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/2022/09/10/algorithm/">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="2022百度之星">
-                            
-                            <span class="card-title">2022百度之星</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                l
-离散数学
-费马小定理的归纳法证明和应用 | 网络热度 (packetmania.net)
-
-
-references:
-Linear algebra and its application
-线性代数
-
-
-
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-09-10
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-user fa-fw"></i>
-                                woniu0126
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/programming/">
-                            <span class="chip bg-color">programming</span>
-                        </a>
-                        
-                        <a href="/tags/math/">
-                            <span class="chip bg-color">math</span>
+                        <a href="/tags/Markdown/">
+                            <span class="chip bg-color">Markdown</span>
                         </a>
                         
                     </div>
@@ -769,7 +687,7 @@ Linear algebra and its application
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             
-                <span id="year">2019-2022</span>
+                <span id="year">2022</span>
             
             <a href="/about" target="_blank">woniu0126</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
@@ -777,7 +695,7 @@ Linear algebra and its application
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">1.4k</span>
+                        class="white-color">94</span>
             
             
             
@@ -803,37 +721,40 @@ Linear algebra and its application
             
         </div>
         <div class="col s12 m4 l4 social-link social-statis">
-    <a href="https://github.com/woniu0126" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+    <a href="https://github.com/woniu0126" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub"
+        data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
+    
 
+        
+            <a href="mailto:1546631808@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我"
+                data-position="top" data-delay="50">
+                <i class="fas fa-envelope-open"></i>
+            </a>
+            
+                <!-- 
+ -->
 
+                <!--  -->
 
-    <a href="mailto:1546631808@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
+                
+                    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1546631808"
+                        class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1546631808"
+                        data-position="top" data-delay="50">
+                        <i class="fab fa-qq"></i>
+                    </a>
+                    
 
+                        <!--  -->
 
+                        
 
-
-
-
-
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1546631808" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1546631808" data-position="top" data-delay="50">
-        <i class="fab fa-qq"></i>
-    </a>
-
-
-
-
-
-
-
+                                <!-- 
     <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
         <i class="fas fa-rss"></i>
     </a>
-
-</div>
+ --></div>
     </div>
 </footer>
 
@@ -964,15 +885,19 @@ $(function () {
     
 
     <!-- 雪花特效 -->
+     
+        <script type="text/javascript">
+            // 只在桌面版网页启用特效
+            var windowWidth = $(window).width();
+            if (windowWidth > 768) {
+                document.write('<script type="text/javascript" src="/libs/others/snow.js"><\/script>');
+            }
+        </script>
     
 
     <!-- 鼠标星星特效 -->
     
 
-     
-        <script src="https://ssl.captcha.qq.com/TCaptcha.js"></script>
-        <script src="/libs/others/TencentCaptcha.js"></script>
-        <button id="TencentCaptcha" data-appid="xxxxxxxxxx" data-cbfn="callback" type="button" hidden></button>
     
 
     <!-- Baidu Analytics -->

@@ -4,40 +4,25 @@
   
     
     <entry>
-      <title>2022年非科保研日记</title>
-      <link href="/2022/10/05/postgra-recom/"/>
-      <url>/2022/10/05/postgra-recom/</url>
+      <title>typora-vue-theme主题介绍</title>
+      <link href="/2018/09/07/cv/"/>
+      <url>/2018/09/07/cv/</url>
       
-        <content type="html"><![CDATA[<h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><blockquote><p>本人NJU地科大三选手，受启蒙课程ics影响（硬核），决定跨保NJUCS，于是在大三选修了一些计科课程，企图跨专业推免。本篇文章以时间为线，流水式记录我的经历。</p></blockquote><h4 id="2022学年开学"><a href="#2022学年开学" class="headerlink" title="2022学年开学"></a>2022学年开学</h4><blockquote><ol><li>向南大CS的学长老师询问南大CS开放日情况，他们细心解答，让我充满自信。</li><li>选到了OS，计网，DS，PR。加强基础，反正有的考研也考。</li></ol></blockquote><h4 id="2022年5月"><a href="#2022年5月" class="headerlink" title="2022年5月"></a>2022年5月</h4><blockquote><ol><li>南大CS夏令营5月15日通知，看到后准备相关报名的材料。</li><li>寻找以往面经进行预习与复习。</li><li>完成课程项目。为CS与地科的期末复习。</li></ol></blockquote><h4 id="2022年6月"><a href="#2022年6月" class="headerlink" title="2022年6月"></a>2022年6月</h4><blockquote><ol><li>已经填报夏令营系统，并且期末复习。</li><li>咨询大气同学（也想转专业）相关事宜，发邮件给OS上课老师，线下咨询情况，老师介绍软件所老师们的研究方向并且给予了学习指导。6月20日结束夏令营报名，6月28-30日未收到邮件，未入营，于是暑假回家。</li></ol></blockquote><h4 id="2022年7月"><a href="#2022年7月" class="headerlink" title="2022年7月"></a>2022年7月</h4><blockquote><ol><li>非常伤心呀，向软件所老师咨询，得知学长们以及群友的简历的非常优秀，各种项目以及竞赛，于是赶紧向老师求助以及在网上寻找暑假的比赛，例如百度之星，钉钉杯以及一些数学算法竞赛，补充单薄的简历。</li><li>在OI Wiki上找一些资料，于是开始自学算法，<a href="https://oi-wiki.org/contest/resources/">学习资源 - OI Wiki (oi-wiki.org)</a>，参加了一系列竞赛，虽然结果不好，但是一次次新的尝试。</li><li>7月底参加钉钉杯大数据，看了一些数据处理(python三件套)以及机器学习(sk-learn)的书。</li></ol></blockquote><h4 id="2022年8月"><a href="#2022年8月" class="headerlink" title="2022年8月"></a>2022年8月</h4><blockquote><ol><li>8月初，由于家中事变，前往母亲家乡，待了一个星期，把钉钉杯的代码交了。</li><li>回家后开始看编译原理，在许畅老师的课程官网把教学立方找到，把音频下载下来，以及许老师编的实验指导。自学编译原理，掌握知识的框架。</li><li>8月19日，返回至学校，准备巢湖实习。</li></ol></blockquote><h4 id="2022年9月"><a href="#2022年9月" class="headerlink" title="2022年9月"></a>2022年9月</h4><blockquote><ol><li>9月初，唐院长请宴，犒劳巢湖实习的学生们，某同学竟偷喝10余罐啤酒。</li><li>9月10日中秋节，中午小吃一顿稍作小憩，3点启航晚上7点回到宿舍。</li><li>巢湖实习期间，上午实习，下午若有空则继续关注绿裙和报名推免各校，并且准备NJUCS的面经。本校地科推免工作也在实习期间进行报名工作。 </li><li>巢湖实习在9月10日中秋节落下帷幕。</li><li>回到宿舍后继续关注各院校的预推免（大部分已经开启了，甚至结束了），每天基本上在关注绿裙消息以及报名，咨询群友们相关事宜，准备自己的简历和材料。应报尽报，不留一校。</li><li>9月16日至20日得到一些回复，招生结束的邮件以及初审的通过消息（浙软，天津等）。9月16日误打误撞面试自所老师，但是未报名自所系统，未果。9月18日-9月21日地科笔试面试，复试冲突浙软复试，放弃浙软。</li><li>9月22日晚前往剑娱线下招聘，被辅导员告知本校替补可能没学上，要另寻它路。不得不调整心态，加快报名的速度。9月23日至9月26日是笔试面试高峰期，基本上每天1-2场，一等就是几个小时，非常折磨心态。期间联系辅导员了解难以留住本校，打击还是比较大的，辅导员期间也是不断为学生我出主意，而我能做的也只能是破釜沉舟的去面试。9月26日，基本上推免面试就结束了，加之本校危险，下午和江西招生办教授交流，于是计划考研以及准备RA暂时留校。此时在交谈期间，自所老师发消息说南京学院还可以报名，于是死马当活马医，抓紧把材料交上。</li><li>9月27日，华东出了推免排名，本人在边缘，不知道稳不稳。下午自所面试，晚上也出了结果是过了复试，进入双选，然后最后决定去了自所。</li><li>9月28日凌晨看绿裙各种名场面。9月28日上午填写了华东和自所，下午也受到了二者的推免通知，最后选择自所，撒花。</li></ol></blockquote><h5 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h5><blockquote><ol><li>加入绿裙<a href="https://github.com/CS-BAOYAN/">CS-BAOYAN (github.com)</a>，正视自己。</li><li>报名材料分门别类，以便快速报名，不浪费时间在繁琐的报名上。</li><li>个人介绍PPT重点介绍项目。对研究方向与自己专业的思考。PPT上尽量写些自己懂的，哪怕是未来的研究方向。不懂的一定要去了解，维基B站都可以，自己能谈几分钟的认识与理解。</li><li>英语！一定要准备话题！然后灵活套入。</li><li>read more, think more, talk more.</li></ol></blockquote><h5 id="Last-take-care-of-yourself-and-be-well-heart"><a href="#Last-take-care-of-yourself-and-be-well-heart" class="headerlink" title="Last: take care of yourself and be well :heart:"></a>Last: take care of yourself and be well <span class="github-emoji"><span>❤</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h5><p><font color="#dd00dd">备注：本文仅供个人记录！！各位见仁见智</font></p><h5 id="快捷链接："><a href="#快捷链接：" class="headerlink" title="快捷链接："></a>快捷链接：</h5><p><a href="http://www.ia.cas.cn/yjsjy/zs/sszs/">硕士招生—-自动化研究所 (cas.cn)</a></p><p><a href="https://yz.chsi.com.cn/">中国研究生招生信息网 (chsi.com.cn)</a></p><p>尹学长手册，侵删：<a href="http://119.3.31.183/">NJUCS生存手册 · NJUCSer成长手册</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="个人简历-CV"><a href="#个人简历-CV" class="headerlink" title="个人简历 CV"></a>个人简历 <a href="https://github.com/hackhu2019/resume">CV</a></h3><h3 id="个人博客-Blog"><a href="#个人博客-Blog" class="headerlink" title="个人博客 Blog"></a>个人博客 <a href="https://www.bilibili.com/read/cv12633102">Blog</a></h3><h3 id="配置Configuration"><a href="#配置Configuration" class="headerlink" title="配置Configuration"></a>配置<a href="https://hexo.io/docs/configuration.html">Configuration</a></h3><h3 id="时区TimeZone"><a href="#时区TimeZone" class="headerlink" title="时区TimeZone"></a>时区<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">TimeZone</a></h3><h3 id="Hexo上传pdflink"><a href="#Hexo上传pdflink" class="headerlink" title="Hexo上传pdflink"></a>Hexo上传pdf<a href="https://lizhening.github.io/posts/7d20ce7f/">link</a></h3><p><a href="https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md">hexo-theme-matery/README_CN.md at develop · blinkfox/hexo-theme-matery (github.com)</a></p><p><a href="https://blog.17lai.site/about/">关于 | 夜法之书 (17lai.site)</a></p><details class="note "><summary><p>[class] [no-icon] [summary]</p></summary>  <p>Any content (support inline tags too).</p>  </details><pre class="line-numbers language-cpp" data-language="cpp"><code class="language-cpp">int a = 4;class entty{    s}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p><img src="https://github.com/woniu0126/picture_img/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-04-04%20155038.png" alt="屏幕截图 2022-04-04 155038"></p><h5 id="specialization"><a href="#specialization" class="headerlink" title="specialization"></a>specialization</h5><blockquote><ol><li>主题背景颜色</li><li>front-matter</li></ol></blockquote><p><a href="https://cloud.tencent.com/developer/article/1973792">Typora + PicGo + 两个免费图床，轻松输出技术文… - 腾讯云开发者社区-腾讯云 (tencent.com)</a></p><p><a href="https://github.com/Molunerfinn/PicGo/releases">Releases · Molunerfinn/PicGo (github.com)</a></p>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> computer science </tag>
-            
-            <tag> postgraduate recommendation </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2022百度之星</title>
-      <link href="/2022/09/10/algorithm/"/>
-      <url>/2022/09/10/algorithm/</url>
-      
-        <content type="html"><![CDATA[<p>l</p><h5 id="离散数学"><a href="#离散数学" class="headerlink" title="离散数学"></a>离散数学</h5><blockquote><p><a href="https://www.packetmania.net/2021/02/14/Fermats-Little-Theorem/">费马小定理的归纳法证明和应用 | 网络热度 (packetmania.net)</a></p></blockquote><blockquote><h5 id="references"><a href="#references" class="headerlink" title="references:"></a>references:</h5><ol><li>Linear algebra and its application</li><li>线性代数</li></ol></blockquote><h4 id=""><a href="#" class="headerlink" title=""></a></h4>]]></content>
-      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> programming </tag>
+            <tag> Typora </tag>
             
-            <tag> math </tag>
+            <tag> Markdown </tag>
             
         </tags>
       
