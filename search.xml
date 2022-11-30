@@ -23,6 +23,25 @@
     
     
     <entry>
+      <title>最优化理论</title>
+      <link href="/2022/11/03/optimize/"/>
+      <url>/2022/11/03/optimize/</url>
+      
+        <content type="html"><![CDATA[<h5 id="中科大凌青"><a href="#中科大凌青" class="headerlink" title="中科大凌青"></a>中科大凌青</h5><p><a href="https://github.com/ZxyGed/ConvexOptimization">ZxyGed/ConvexOptimization: 中科大凌青老师凸优化课程的课程笔记 (github.com)</a></p><p><a href="https://www.bilibili.com/video/BV1Jt411p7jE/?p=11&amp;spm_id_from=pageDriver&amp;vd_source=1b5a680450b015abb52a712f2dbac81a">凸优化12_哔哩哔哩_bilibili</a></p><h5 id="南大张利军"><a href="#南大张利军" class="headerlink" title="南大张利军"></a>南大张利军</h5><p><a href="http://www.lamda.nju.edu.cn/gouyt/optfall2022/index.html">Optimization Methods (Fall 2022) (nju.edu.cn)</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> convex optimization </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>重拾 python</title>
       <link href="/2022/10/26/python/"/>
       <url>/2022/10/26/python/</url>
