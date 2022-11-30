@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>pytorch</title>
+      <link href="/2022/11/30/pytorch/"/>
+      <url>/2022/11/30/pytorch/</url>
+      
+        <content type="html"><![CDATA[<h3 id="初识pytorch"><a href="#初识pytorch" class="headerlink" title="初识pytorch"></a>初识pytorch</h3><p><a href="https://zhuanlan.zhihu.com/p/99318332">60题PyTorch简易入门指南，做技术的弄潮儿🌊 - 知乎 (zhihu.com)</a></p><p><a href="https://www.zhihu.com/question/55720139/answer/147148105">新手如何入门pytorch？</a></p><p><a href="https://zhuanlan.zhihu.com/p/26670032">等什么, 赶快抱紧 PyTorch 的大腿! </a></p><blockquote><p>可能会遇到numpy版本低的情况，更新即可。</p></blockquote><p><a href="https://github.com/jcjohnson/pytorch-examples">jcjohnson/pytorch-examples: Simple examples to introduce PyTorch (github.com)</a></p><p><a href="https://pytorch.org/tutorials/">Welcome to PyTorch Tutorials — PyTorch Tutorials 1.12.0+cu102 documentation</a></p><p><a href="https://github.com/chenyuntc/pytorch-book">chenyuntc/pytorch-book: PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》) (github.com)</a></p><p><a href="https://github.com/chenyuntc/pytorch-GAN">chenyuntc/pytorch-GAN: A minimal implementaion (less than 150 lines of code with visualization) of DCGAN/WGAN in PyTorch with jupyter notebooks (github.com)</a></p><p><a href="https://discuss.pytorch.org/">PyTorch Forums</a></p><p><a href="https://github.com/pytorch/examples">pytorch/examples: A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc. (github.com)</a></p><p><a href="https://github.com/jcjohnson/pytorch-examples">jcjohnson/pytorch-examples: Simple examples to introduce PyTorch (github.com)</a></p><p><a href="https://www.bilibili.com/video/BV1Vx411j7kT?p=1&amp;vd_source=1b5a680450b015abb52a712f2dbac81a">【莫烦Python】PyTorch 神经网络_哔哩哔哩_bilibili</a></p><p><a href="https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php">ML 2021 Spring (ntu.edu.tw)</a></p><p><a href="https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.337.search-card.all.click&amp;vd_source=1b5a680450b015abb52a712f2dbac81a">(强推)李宏毅2021/2022春机器学习课程_哔哩哔哩_bilibili</a></p><p><a href="https://zhuanlan.zhihu.com/p/26670032">等什么, 赶快抱紧 PyTorch 的大腿! - 知乎 (zhihu.com)</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> pytorch </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>重拾 python</title>
       <link href="/2022/10/26/python/"/>
       <url>/2022/10/26/python/</url>
