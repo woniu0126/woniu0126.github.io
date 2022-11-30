@@ -4,25 +4,38 @@
   
     
     <entry>
-      <title>typora-vue-theme主题介绍</title>
-      <link href="/2018/09/07/cv/"/>
-      <url>/2018/09/07/cv/</url>
+      <title>重拾 python</title>
+      <link href="/2022/10/26/python/"/>
+      <url>/2022/10/26/python/</url>
       
-        <content type="html"><![CDATA[<h3 id="个人简历-CV"><a href="#个人简历-CV" class="headerlink" title="个人简历 CV"></a>个人简历 <a href="https://github.com/hackhu2019/resume">CV</a></h3><h3 id="个人博客-Blog"><a href="#个人博客-Blog" class="headerlink" title="个人博客 Blog"></a>个人博客 <a href="https://www.bilibili.com/read/cv12633102">Blog</a></h3><h3 id="配置Configuration"><a href="#配置Configuration" class="headerlink" title="配置Configuration"></a>配置<a href="https://hexo.io/docs/configuration.html">Configuration</a></h3><h3 id="时区TimeZone"><a href="#时区TimeZone" class="headerlink" title="时区TimeZone"></a>时区<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">TimeZone</a></h3><h3 id="Hexo上传pdflink"><a href="#Hexo上传pdflink" class="headerlink" title="Hexo上传pdflink"></a>Hexo上传pdf<a href="https://lizhening.github.io/posts/7d20ce7f/">link</a></h3><p><a href="https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md">hexo-theme-matery/README_CN.md at develop · blinkfox/hexo-theme-matery (github.com)</a></p><p><a href="https://blog.17lai.site/about/">关于 | 夜法之书 (17lai.site)</a></p><details class="note "><summary><p>[class] [no-icon] [summary]</p></summary>  <p>Any content (support inline tags too).</p>  </details><pre class="line-numbers language-cpp" data-language="cpp"><code class="language-cpp">int a = 4;class entty{    s}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p><img src="https://github.com/woniu0126/picture_img/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-04-04%20155038.png" alt="屏幕截图 2022-04-04 155038"></p><h5 id="specialization"><a href="#specialization" class="headerlink" title="specialization"></a>specialization</h5><blockquote><ol><li>主题背景颜色</li><li>front-matter</li></ol></blockquote><p><a href="https://cloud.tencent.com/developer/article/1973792">Typora + PicGo + 两个免费图床，轻松输出技术文… - 腾讯云开发者社区-腾讯云 (tencent.com)</a></p><p><a href="https://github.com/Molunerfinn/PicGo/releases">Releases · Molunerfinn/PicGo (github.com)</a></p>]]></content>
+        <content type="html"><![CDATA[<h4 id="python"><a href="#python" class="headerlink" title="python"></a>python</h4><p><a href="https://pycharm.iswbm.com/roadmap.html">Roadmap — PyCharm 中文指南(Win版) 2.0 documentation (iswbm.com)</a></p><p><a href="https://python.iswbm.com/aboutme.html">关于作者 — Python中文指南 1.0 documentation (iswbm.com)</a></p><p><a href="https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/">Python 风格指南 - 内容目录 — Google 开源项目风格指南 (zh-google-styleguide.readthedocs.io)</a></p><p><a href="https://pyloong.github.io/pythonic-project-guidelines/guidelines/tutorial/tutorial/">项目说明 - Python 项目工程化开发指南 (pyloong.github.io)</a></p><p><a href="http://jobbole.github.io/awesome-python-cn/">Python 资源大全中文版 (jobbole.github.io)</a></p><p><a href="https://www.cnblogs.com/taceywong/p/10506032.html">Cookiecutter: 更好的项目模板工具：（1）简介及可用资源汇总 - Tacey Wong - 博客园 (cnblogs.com)</a></p><p><a href="https://zhuanlan.zhihu.com/p/509167266">Python项目开发工程化 - 知乎 (zhihu.com)</a></p><h4 id="C-python-extension"><a href="#C-python-extension" class="headerlink" title="C python extension"></a>C python extension</h4><blockquote><p><a href="https://docs.python.org/3/extending/extending.html#building-arbitrary-values">https://docs.python.org/3/extending/extending.html#building-arbitrary-values</a></p><p><a href="https://www.digitalocean.com/community/tutorials/calling-c-functions-from-python">https://www.digitalocean.com/community/tutorials/calling-c-functions-from-python</a></p><p><a href="https://www.programcreek.com/python/?CodeExample=load+dll">https://www.programcreek.com/python/?CodeExample=load+dll</a></p><p><a href="https://docs.python.org/3/c-api/module.html">https://docs.python.org/3/c-api/module.html</a></p><p><a href="https://docs.python.org/3/extending/building.html">https://docs.python.org/3/extending/building.html</a></p><p><a href="https://blog.csdn.net/magictong/article/details/3075478">https://blog.csdn.net/magictong/article/details/3075478</a></p><p><a href="https://book.pythontips.com/en/latest/python_c_extension.html">https://book.pythontips.com/en/latest/python_c_extension.html</a></p><p><a href="https://dev.to/petercour/call-dll-functions-from-python-jo4">https://dev.to/petercour/call-dll-functions-from-python-jo4</a></p><p>顺便把vs2022下回来了，配个主题</p><p><a href="https://marketplace.visualstudio.com/items?itemName=unthrottled.dokithemevisualstudio">The Doki Theme - Visual Studio Marketplace</a></p><p><a href="https://marketplace.visualstudio.com/items?itemName=unthrottled.dokithemevisualstudio">The Doki Theme - Visual Studio Marketplace</a></p><p><a href="https://github.com/doki-theme/doki-theme-visualstudio/releases/tag/v88.1-1.0.2">Release v88.1-1.0.2 - Darling · doki-theme/doki-theme-visualstudio (github.com)</a></p></blockquote><h3 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h3><p><strong>add.c</strong></p><blockquote><pre class="line-numbers language-c" data-language="c"><code class="language-c">#include&lt;stdio.h&gt;int add_int(int num1, int num2) {    return num1 + num2;}float add_float(float num1, float num2) {    return num1 + num2;}int print(){    printf("test print");    return 1;}int main(){printf("main");return 0;}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></blockquote><p><strong>使用 windows 下的gcc。</strong></p><p><strong>makefile</strong></p><blockquote><pre class="line-numbers language-makefile" data-language="makefile"><code class="language-makefile">gcc -c sample.cgcc -shared -o sample.dll sample.o -Wl,--out-implib,libsample.a<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre></blockquote><p><strong>test.py</strong></p><blockquote><pre class="line-numbers language-python" data-language="python"><code class="language-python">from ctypes import *from ctypes.util import find_libraryif __name__ == '__main__':    adder = cdll.LoadLibrary('./add.dll')    model = adder.add_int    num = model(1,2)    print(num)    adder.main()<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></blockquote><h5 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h5><blockquote><p><a href="https://github.com/jankoslavic/py-tools/tree/master/wrapping%20C%20code">https://github.com/jankoslavic/py-tools/tree/master/wrapping%20C%20code</a></p></blockquote><p><font color="#dd00dd">备注：本文仅供参考！！各位见仁见智</font></p>]]></content>
       
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
       
       
         <tags>
             
-            <tag> Typora </tag>
+            <tag> python </tag>
             
-            <tag> Markdown </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人简历与博客建立参考</title>
+      <link href="/2022/07/17/cv-blog/"/>
+      <url>/2022/07/17/cv-blog/</url>
+      
+        <content type="html"><![CDATA[<h3 id="个人简历-CV"><a href="#个人简历-CV" class="headerlink" title="个人简历 CV"></a>个人简历 <a href="https://github.com/hackhu2019/resume">CV</a></h3><h3 id="个人博客-Blog"><a href="#个人博客-Blog" class="headerlink" title="个人博客 Blog"></a>个人博客 <a href="https://www.bilibili.com/read/cv12633102">Blog</a></h3><h3 id="配置Configuration"><a href="#配置Configuration" class="headerlink" title="配置Configuration"></a>配置<a href="https://hexo.io/docs/configuration.html">Configuration</a></h3><h3 id="时区TimeZone"><a href="#时区TimeZone" class="headerlink" title="时区TimeZone"></a>时区<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">TimeZone</a></h3><h3 id="Hexo上传pdflink"><a href="#Hexo上传pdflink" class="headerlink" title="Hexo上传pdflink"></a>Hexo上传pdf<a href="https://lizhening.github.io/posts/7d20ce7f/">link</a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> CV </tag>
             
         </tags>
       
